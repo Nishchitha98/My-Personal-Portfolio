@@ -8,7 +8,7 @@ This project showcases my skills, projects, and journey as an aspiring **Full St
 ---
 
 ## 🚀 Live Website
-🔗https://nishchitha98.github.io/FUTURE_FS_01/
+🔗https://nishchitha98.github.io/My-Personal-Portfolio/
 
 ---
 
