@@ -8,7 +8,7 @@ This project showcases my skills, projects, and journey as an aspiring **Full St
 ---
 
 ## 🚀 Live Website
-🔗https://vercel.com/nishchitha98s-projects/nishchitha-portfolio
+🔗https://nishchitha-portfolio-six.vercel.app/
 
 ---
 
